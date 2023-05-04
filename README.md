@@ -2,7 +2,7 @@
 
 ## Задание 1
 
-Составить модели классов SQLAlchemy по схеме:
+Составить модели классов SQLAlchemy по схеме: https://github.com/netology-code/py-homeworks-db/blob/master/orm/readme/book_publishers_scheme.png
 ![](readme/book_publishers_scheme.png)   
 Интуитивно необходимо выбрать подходящие типы и связи полей.  
 
